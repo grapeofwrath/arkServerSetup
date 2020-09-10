@@ -3,11 +3,15 @@ I've only found one guide for actually finding engrams from the base game and mo
 
 This line of bash is to be run in either the mod directory or the respective vanilla directory (more on this below).
 
+
+Full
 ```bash
 find . -iname EngramEntry_* | xargs -n1 basename | sed 's/EngramEntry_/OverrideNamedEngramEntries=(EngramClassName=EngramEntry_"/' | sed 's/.uasset/_C",EngramHidden=False,EngramPointsCost=0,EngramLevelRequirement=0,RemoveEngramPreReq=False)/' > outputfile
 ```
 Output: OverrideNamedEngramEntries=(EngramClassName=EngramEntry_"EngrameName_C",EngramHidden=False,EngramPointsCost=0,EngramLevelRequirement=0,RemoveEngramPreReq=False)
-or
+
+
+Simplified
 ```bash
 find . -iname EngramEntry_* | xargs -n1 basename | sed 's/EngramEntry_//' | sed 's/.uasset/_C/' > outputfile
 ```
