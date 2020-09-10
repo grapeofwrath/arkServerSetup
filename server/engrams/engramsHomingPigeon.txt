@@ -1,0 +1,7 @@
+OverrideNamedEngramEntries=(EngramClassName=EngramEntry_"HomingPigeonLegRing_C",EngramHidden=False,EngramPointsCost=0,EngramLevelRequirement=0,RemoveEngramPreReq=False)
+OverrideNamedEngramEntries=(EngramClassName=EngramEntry_"HomingPigeonPublicFlag_C",EngramHidden=False,EngramPointsCost=0,EngramLevelRequirement=0,RemoveEngramPreReq=False)
+OverrideNamedEngramEntries=(EngramClassName=EngramEntry_"HomingPigeonFlag_C",EngramHidden=False,EngramPointsCost=0,EngramLevelRequirement=0,RemoveEngramPreReq=False)
+OverrideNamedEngramEntries=(EngramClassName=EngramEntry_"HomingPigeonParcel_C",EngramHidden=False,EngramPointsCost=0,EngramLevelRequirement=0,RemoveEngramPreReq=False)
+OverrideNamedEngramEntries=(EngramClassName=EngramEntry_"HomingPigeonBirdSeed_C",EngramHidden=False,EngramPointsCost=0,EngramLevelRequirement=0,RemoveEngramPreReq=False)
+OverrideNamedEngramEntries=(EngramClassName=EngramEntry_"HomingPigeonMailbox_C",EngramHidden=False,EngramPointsCost=0,EngramLevelRequirement=0,RemoveEngramPreReq=False)
+OverrideNamedEngramEntries=(EngramClassName=EngramEntry_"HomingPigeonPaper_C",EngramHidden=False,EngramPointsCost=0,EngramLevelRequirement=0,RemoveEngramPreReq=False)
