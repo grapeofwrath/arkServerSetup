@@ -1,4 +1,4 @@
-## Finding Engrams
+## Finding Engrams: Vanilla and Mods
 Using an engram whitelist is a pain to curate but a lifesaver for lag when you want to customize them. Unfortunately, I've only found one guide for actually finding engrams from the base game and mods so I'm making this for redundancy. Currently this guide is for Linux using bash; I'll probably get around to adding Windows instructions later. Hopefully it will help out:)
 
 #### TLDR:
