@@ -18,7 +18,7 @@ find . -iname EngramEntry_* | xargs -n1 basename | sed 's/EngramEntry_//' | sed 
 > __Output:__ EngramName_C
 
 
-The directories are located in differing locations depending on whether or not you're configuring a server. Server directories stem from the arkserver (/arkserver/ShooterGame/Content/) while local directories stem from ARK (/steamapps/common/ARK/ShooterGame/Content/).
+The directories are located in differing locations depending on whether or not you're configuring a server. Server directories stem from arkserver (/arkserver/ShooterGame/Content/) while local directories stem from ARK (/steamapps/common/ARK/ShooterGame/Content/).
 
 
 Vanilla dirs: /Content/directory [Aberration, Extinction, Genesis, PrimalEarth(base game), ScorchedEarth]
