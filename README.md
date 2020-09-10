@@ -25,7 +25,7 @@ Mod dirs: /Content/Mods/modnumber
 
 #### THE DEETS:
 
-Credit to [ToeiRei](https://survivetheark.com/index.php?/forums/topic/415335-engram-removalhiding-config-generation/)
+Thanks to [ToeiRei](https://survivetheark.com/index.php?/forums/topic/415335-engram-removalhiding-config-generation/) for originally sharing this.
 
 __Step 1:__ First we need to change to the desired directory, and then we search for any engrams inside.
 ```bash
