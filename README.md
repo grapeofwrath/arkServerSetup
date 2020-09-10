@@ -4,7 +4,7 @@ Using an engram whitelist is a pain to curate but a lifesaver for lag when you w
 This line of bash is to be run in either the mod directory or the respective vanilla directory (more on this below).
 
 
-Full: This adds the correct syntax and arguments such as cost, prereq, etc.
+Full: This adds the correct syntax and arguments for the game.ini, such as cost, prereq, etc.
 ```bash
 find . -iname EngramEntry_* | xargs -n1 basename | sed 's/EngramEntry_/OverrideNamedEngramEntries=(EngramClassName=EngramEntry_"/' | sed 's/.uasset/_C",EngramHidden=False,EngramPointsCost=0,EngramLevelRequirement=0,RemoveEngramPreReq=False)/' > outputfile
 ```
