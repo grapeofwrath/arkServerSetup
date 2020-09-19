@@ -3,7 +3,7 @@ Using an engram whitelist is a pain to curate but a lifesaver for lag when you w
 
 #### Update
 
-[Ark Class Names BASH Script](../blob/master/arkClassNames.sh), I've compiled the code below into a bash script. I plan on converting this to python in the future as well.
+[Ark Class Names BASH Script](https://github.com/grapeofwrath/shroomaninjasArk/blob/master/arkClassNames.sh), I've compiled the code below into a bash script. I plan on converting this to python in the future as well.
 
 #### TLDR:
 
