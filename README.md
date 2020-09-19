@@ -1,6 +1,10 @@
 ## Finding Engrams: Vanilla and Mods
 Using an engram whitelist is a pain to curate but a lifesaver for lag when you want to customize them. Unfortunately, I've only found one guide for actually finding engrams from the base game and mods so I'm making this for redundancy. Currently this guide is for Linux using bash; I'll probably get around to adding Windows instructions later. Hopefully it will help out:)
 
+#### Update
+
+[Ark Class Names BASH Script](../blob/master/arkClassNames.sh), I've compiled the code below into a bash script. I plan on converting this to python in the future as well.
+
 #### TLDR:
 
 This line of bash is to be run in either the mod directory or the respective vanilla directory (more on this below).
